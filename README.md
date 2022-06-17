@@ -2,7 +2,7 @@
 
 # Hi there 👋
 
-- 🌱 I’m currently using Js & TS, Vue, Nestjs
+- 🌱 I’m currently using Js & TS, Vue, React, Nestjs
 - 📫 How to reach me: yufengjisuo@gmail.com
 - 😄 Pronouns: Name6(Liu)
 

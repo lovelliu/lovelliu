@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently using Js & TS, Vue, React, Nestjs
 - 📫 How to reach me: yufengjisuo@gmail.com
-- 😄 Pronouns: Name6(Liu)
+- 😄 Pronouns: Name 6(Liu)
 
 
 ![Visited By](https://count.getloli.com/get/@lhj-web?theme=gelbooru)

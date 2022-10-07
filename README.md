@@ -3,7 +3,7 @@
 # Hi there 👋
 
 - 🌱 I’m currently using Js & TS, Vue, React, Nestjs
-- 📫 How to reach me: yufengjisuo@gmail.com
+- 📫 How to reach me: lovelliu@foxmail.com
 - 😄 Pronouns: Lovell Liu
 
 

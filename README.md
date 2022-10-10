@@ -5,6 +5,3 @@
 - 🌱 I’m currently using Js & TS, Vue, React, Nestjs
 - 📫 How to reach me: lovelliu@foxmail.com
 - 😄 Pronouns: Lovell Liu
-
-
-![Visited By](https://count.getloli.com/get/@lovelliu?theme=gelbooru)
